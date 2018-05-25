@@ -1,3 +1,3 @@
 # Game
 
-Epip Game!
+Epic Game!
